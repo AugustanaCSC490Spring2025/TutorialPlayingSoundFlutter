@@ -8,4 +8,4 @@ In this tutorial, you will learn:
   
 Inspiration  
 This tutorial was inspired by the following video:  
-🎥 Flutter Sound Tutorial  
+🎥 [Flutter Sound Tutorial](https://www.youtube.com/watch?v=OHVKzKc5NgI) 
