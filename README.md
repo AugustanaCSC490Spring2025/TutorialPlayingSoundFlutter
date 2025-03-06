@@ -1,5 +1,11 @@
-# TutorialPlayingSoundFlutter
+# Tutorial: Playing Sound in Flutter
+This Flutter tutorial, created by Jay and Tim, demonstrates how to play sounds from MP3 files using the audioplayers package.
 
-A tutorial in Flutter created by Jay and Tim to learn how to play sounds from mp3 files using the audioplayers package.
-This tutorial was inspired by this video: https://www.youtube.com/watch?v=OHVKzKc5NgI 
+Overview
+In this tutorial, you will learn:
+✅ How to set up the audioplayers package in a Flutter project
+✅ How to load and play MP3 files
 
+Inspiration
+This tutorial was inspired by the following video:
+🎥 Flutter Sound Tutorial
